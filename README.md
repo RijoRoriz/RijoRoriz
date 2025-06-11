@@ -35,10 +35,12 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 
 ---
 
-### 🧪 Projects & Research
+### 🛠️ Projects & Research
 
-#### 🧭 ALFA Project (2020–Now)  
-**PhD Research Grant | ALGORITMI, Univ. of Minho**  
+<h4>
+  <img src="https://github.com/alfa-project/alfa-framework/blob/main/docs/figures/alfa-logo.png" alt="ALFA Logo" height="20" style="vertical-align: middle;" />
+  ALFA Project (2020–Now)
+</h4>
 
 **Lead Developer and Architect** of [**ALFA (Advanced LiDAR Framework for Automotive)**](https://github.com/alfa-project/alfa-framework), an open-source embedded framework for real-time LiDAR data processing on FPGA-enabled platforms.
 
