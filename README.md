@@ -1,9 +1,9 @@
 <!-- Ricardo Roriz GitHub Profile README -->
 
-<h1 align="center">Hello, I'm Ricardo Roriz 👋</h1>
+<h1 align="center"> Ricardo Roriz </h1>
 
 <p align="center">
-   Embedded Systems Engineer | 🚗 Automotive LiDAR Researcher | Embedded C/C++, FPGA Developer  
+   Embedded Systems Engineer | Automotive LiDAR Researcher | Embedded C/C++, FPGA Developer  
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a Ph.D. candidate and researcher at the [ALGORITMI Center](https://algoritmi.uminho.pt/) and an embedded systems engineer passionate about real-time systems, FPGA acceleration, and LiDAR technology for autonomous vehicles.
 I have completed all Ph.D. requirements and am currently preparing for my defense, expected by September 2025.
 
-- 🛰️ Creator of **[ALFA: Advanced LiDAR Framework for Automotive](https://github.com/alfa-project/alfa-framework)**  
-- 🧠 Focused on **software/hardware co-design**, embedded Linux systems (Yocto, PetaLinux), and ROS2  
-- 🎓 Master’s in Industrial Electronics and Computer Engineering (2018)  
-- 📝 Currently finishing a Ph.D. on LiDAR instrumentation & sensing  
+-  Creator of **[ALFA: Advanced LiDAR Framework for Automotive](https://github.com/alfa-project/alfa-framework)**  
+-  Focused on **software/hardware co-design**, embedded Linux systems (Yocto, PetaLinux), and ROS2  
+-  Master’s in Industrial Electronics and Computer Engineering (2018)  
+-  Currently finishing a Ph.D. on LiDAR instrumentation & sensing  
 
 ---
 
-### 🚀 Tech Stack & Interests
+### Tech Stack & Interests
 
 - **Languages**: C/C++, Verilog/SystemVerilog, Assembly, Shell, TCL  
 - **Platforms**: ARM Cortex, Zynq MPSoC, TrustZone, Linux (Yocto, PetaLinux)  
@@ -35,7 +35,7 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 
 ---
 
-### 🛠️ Projects & Research
+### Projects & Research
 
 <h4>
   <img src="https://github.com/alfa-project/alfa-framework/blob/main/docs/figures/alfa-logo.png" alt="ALFA Logo" height="20" style="vertical-align: middle;" />
@@ -55,7 +55,7 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 > 🔹 Presented ALFA at **Embedded World 2023** (Germany) and published articles describing ALFA in high-tier journals 
 > 🔹 Mentored more than 10 master’s theses focused on LiDAR processing using ALFA  
 
-#### 🚘 Sensible Car Project (2019–2021)  
+#### Sensible Car Project (2019–2021)  
 **ALGORITMI, Univ. of Minho**
 
 Researcher in the **Sensible Car** project (Univ. of Minho and Robert Bosch LLC) , focused on smart sensor integration for autonomous driving.
@@ -65,7 +65,7 @@ Researcher in the **Sensible Car** project (Univ. of Minho and Robert Bosch LLC)
 > 🔹 Created and deployed embedded Linux images with preconfigured ROS2 nodes  
 > 🔹 Validated sensor fusion algorithms on a rail and goniometer system for calibration and testing  
 
-#### ⚽ Minho RoboSoccer Team (2015–2017)  
+#### Minho RoboSoccer Team (2015–2017)  
 **Laboratory of Automation and Robotics (LAR), Univ. of Minho**
 
 Developer in a RoboCup Middle Size League team building fully autonomous soccer robots.
@@ -76,9 +76,9 @@ Developer in a RoboCup Middle Size League team building fully autonomous soccer 
 
 ---
 
-### 🧑‍🏫 Teaching Experience
+### Teaching Experience
 
-#### 🎓 Invited Assistant Professor (Set 2022 – Jul 2023)  
+#### Invited Assistant Professor (Set 2022 – Jul 2023)  
 **University of Minho · Part-time**
 
 Taught undergraduate and master’s level courses in the Department of Industrial Electronics.
@@ -88,7 +88,7 @@ Taught undergraduate and master’s level courses in the Department of Industria
 > 🔹 Embedded Systems  
 > 🔹 Real-Time Systems  
 
-### 📰 Featured Publications
+### Featured Publications
 
 | Year | Title |
 |------|-------|
@@ -100,26 +100,24 @@ Taught undergraduate and master’s level courses in the Department of Industria
 | 2021 | [DIOR: Hardware Weather Denoising](https://doi.org/10.1109/jsen.2021.3133873) – *IEEE Sensors Journal* |
 | 2021 | [LiDAR Technology Survey](https://doi.org/10.1109/TITS.2021.3086804) – *IEEE Transactions on Intelligent Transportation Systems* | 
 
-👉 [View all on ResearchGate »](https://www.researchgate.net/profile/Ricardo-Roriz)
+[View all on ResearchGate »](https://www.researchgate.net/profile/Ricardo-Roriz)
 
 ---
 
-### 🧑‍🏫 Education
+### Education
 
-- 🎓 **Ph.D. in Electronics & Computer Engineering** *(ongoing)*  
+- **Ph.D. in Electronics & Computer Engineering** *(ongoing)*  
   Thesis: *ALFA: Advanced LiDAR Framework for Automotive*
 
-- 🎓 **M.Sc. in Industrial Electronics and Computer Engineering**  
+- **M.Sc. in Industrial Electronics and Computer Engineering**  
   Dissertation: *System Survival Across Hypervisor Failures*
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
-📧 ricardojrroriz@gmail.com  
-📍 Braga, Portugal  
-🔗 [LinkedIn](https://www.linkedin.com/in/ricardo-roriz/) | [ResearchGate](https://www.researchgate.net/profile/Ricardo-Roriz) | [GitHub](https://github.com/alfa-project)
+ricardojrroriz@gmail.com  
+Braga, Portugal  
+[LinkedIn](https://www.linkedin.com/in/ricardo-roriz/) | [ResearchGate](https://www.researchgate.net/profile/Ricardo-Roriz) | [GitHub](https://github.com/alfa-project)
 
 ---
-
-_“Build systems that not only run fast, but survive the real world.”_
