@@ -37,10 +37,7 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 
 ### Projects & Research
 
-<h4>
-  <img src="https://github.com/alfa-project/alfa-framework/blob/main/docs/figures/alfa-logo.png" alt="ALFA Logo" height="20" style="vertical-align: middle;" />
-  ALFA Project (2020–Now)
-</h4>
+#### ALFA Project (2020–Now)  ***ALGORITMI, Univ. of Minho***
 
 **Lead Developer and Architect** of [**ALFA (Advanced LiDAR Framework for Automotive)**](https://github.com/alfa-project/alfa-framework), an open-source embedded framework for real-time LiDAR data processing on FPGA-enabled platforms.
 
@@ -52,11 +49,10 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 > 🔹 Automated toolchains and image generation using **Shell and TCL scripting**  
 > 🔹 Integrated ROS2 modules for flexible sensor processing  
 > 🔹 Maintained GitHub repositories, CI pipelines, documentation, and demo delivery  
-> 🔹 Presented ALFA at **Embedded World 2023** (Germany) and published articles describing ALFA in high-tier journals 
+> 🔹 Presented ALFA at **Embedded World 2023** (Germany) and published articles describing ALFA in high-tier journals  
 > 🔹 Mentored more than 10 master’s theses focused on LiDAR processing using ALFA  
 
-#### Sensible Car Project (2019–2021)  
-**ALGORITMI, Univ. of Minho**
+#### Sensible Car Project (2019–2021)  ***ALGORITMI, Univ. of Minho***
 
 Researcher in the **Sensible Car** project (Univ. of Minho and Robert Bosch LLC) , focused on smart sensor integration for autonomous driving.
 
@@ -65,8 +61,7 @@ Researcher in the **Sensible Car** project (Univ. of Minho and Robert Bosch LLC)
 > 🔹 Created and deployed embedded Linux images with preconfigured ROS2 nodes  
 > 🔹 Validated sensor fusion algorithms on a rail and goniometer system for calibration and testing  
 
-#### Minho RoboSoccer Team (2015–2017)  
-**Laboratory of Automation and Robotics (LAR), Univ. of Minho**
+#### Minho RoboSoccer Team (2015–2017)  ***Laboratory of Automation and Robotics (LAR), Univ. of Minho***
 
 Developer in a RoboCup Middle Size League team building fully autonomous soccer robots.
 
