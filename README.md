@@ -14,7 +14,7 @@
 
 ---
 
-### About Me
+## About Me
 
 I'm a Ph.D. candidate and researcher at the [ALGORITMI Center](https://algoritmi.uminho.pt/) and an embedded systems engineer passionate about real-time systems, FPGA acceleration, and LiDAR technology for autonomous vehicles.
 I have completed all Ph.D. requirements and am currently preparing for my defense, expected by September 2025.
@@ -26,7 +26,7 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 
 ---
 
-### Tech Stack & Interests
+## Tech Stack & Interests
 
 - **Languages**: C/C++, Verilog/SystemVerilog, Assembly, Shell, TCL  
 - **Platforms**: ARM Cortex, Zynq MPSoC, TrustZone, Linux (Yocto, PetaLinux)  
@@ -35,55 +35,55 @@ I have completed all Ph.D. requirements and am currently preparing for my defens
 
 ---
 
-### Projects & Research
+## Projects & Research
 
-#### ALFA Project (2020–Now)  ***ALGORITMI, Univ. of Minho***
+### 🔹ALFA Project (2020–Now)  ***ALGORITMI, Univ. of Minho***
 
-**Lead Developer and Architect** of [**ALFA (Advanced LiDAR Framework for Automotive)**](https://github.com/alfa-project/alfa-framework), an open-source embedded framework for real-time LiDAR data processing on FPGA-enabled platforms.
+**Lead Developer and Architect** of [**ALFA (Advanced LiDAR Framework for Automotive)**](https://github.com/alfa-project/alfa-framework), an open-source embedded framework for real-time LiDAR data processing on FPGA-enabled platforms:
 
-> 🔹 Designed and implemented the software/hardware architecture  
-> 🔹 Developed LiDAR data processing pipelines in C++ and FPGA (Verilog/SystemVerilog)  
-> 🔹 Created custom embedded Linux images using **Yocto** and **PetaLinux**  
-> 🔹 Wrote and integrated kernel-level **device drivers** for LiDAR hardware  
-> 🔹 Built **Qt-based GUI tools** for system monitoring and visualization  
-> 🔹 Automated toolchains and image generation using **Shell and TCL scripting**  
-> 🔹 Integrated ROS2 modules for flexible sensor processing  
-> 🔹 Maintained GitHub repositories, CI pipelines, documentation, and demo delivery  
-> 🔹 Presented ALFA at **Embedded World 2023** (Germany) and published articles describing ALFA in high-tier journals  
-> 🔹 Mentored more than 10 master’s theses focused on LiDAR processing using ALFA  
+- Designed and implemented the software/hardware architecture  
+- Developed LiDAR data processing pipelines in C++ and FPGA (Verilog/SystemVerilog)  
+- Created custom embedded Linux images using **Yocto** and **PetaLinux**  
+- Wrote and integrated kernel-level **device drivers** for LiDAR hardware  
+- Built **Qt-based GUI tools** for system monitoring and visualization  
+- Automated toolchains and image generation using **Shell and TCL scripting**  
+- Integrated ROS2 modules for flexible sensor processing  
+- Maintained GitHub repositories, CI pipelines, documentation, and demo delivery  
+- Presented ALFA at **Embedded World 2023** (Germany) and published articles describing ALFA in high-tier journals  
+- Mentored more than 10 master’s theses focused on LiDAR processing using ALFA  
 
-#### Sensible Car Project (2019–2021)  ***ALGORITMI, Univ. of Minho***
+### 🔹Sensible Car Project (2019–2021)  ***ALGORITMI, Univ. of Minho***
 
-Researcher in the **Sensible Car** project (Univ. of Minho and Robert Bosch LLC) , focused on smart sensor integration for autonomous driving.
+Researcher in the **Sensible Car** project (Univ. of Minho and Robert Bosch LLC) , focused on smart sensor integration for autonomous driving:
 
-> 🔹 Designed multi-sensor control systems for LiDAR and motion platforms  
-> 🔹 Developed LiDAR processing algorithms for embedded systems using C++ and FPGA  
-> 🔹 Created and deployed embedded Linux images with preconfigured ROS2 nodes  
-> 🔹 Validated sensor fusion algorithms on a rail and goniometer system for calibration and testing  
+- Designed multi-sensor control systems for LiDAR and motion platforms  
+- Developed LiDAR processing algorithms for embedded systems using C++ and FPGA  
+- Created and deployed embedded Linux images with preconfigured ROS2 nodes  
+- Validated sensor fusion algorithms on a rail and goniometer system for calibration and testing  
 
-#### Minho RoboSoccer Team (2015–2017)  ***Laboratory of Automation and Robotics (LAR), Univ. of Minho***
+### 🔹Minho RoboSoccer Team (2015–2017)  ***Laboratory of Automation and Robotics (LAR), Univ. of Minho***
 
-Developer in a RoboCup Middle Size League team building fully autonomous soccer robots.
+Developer in a RoboCup Middle Size League team building fully autonomous soccer robots:
 
-> 🔹 Developed low-level firmware and embedded drivers for robot hardware  
-> 🔹 Contributed to inter-robot communication strategies and team coordination logic  
-> 🔹 Participated in international robotics competitions and system debugging under pressure  
+- Developed low-level firmware and embedded drivers for robot hardware  
+- Contributed to inter-robot communication strategies and team coordination logic  
+- Participated in international robotics competitions and system debugging under pressure  
 
 ---
 
-### Teaching Experience
+## Teaching Experience
 
-#### Invited Assistant Professor (Set 2022 – Jul 2023)  
+### 🔹Invited Assistant Professor (Set 2022 – Jul 2023)  
 **University of Minho · Part-time**
 
-Taught undergraduate and master’s level courses in the Department of Industrial Electronics.
+Taught undergraduate and master’s level courses in the Department of Industrial Electronics:
 
-> 🔹 Industrial Electronics  
-> 🔹 Instruments and Mechanisms  
-> 🔹 Embedded Systems  
-> 🔹 Real-Time Systems  
+- Industrial Electronics  
+- Instruments and Mechanisms  
+- Embedded Systems  
+- Real-Time Systems  
 
-### Featured Publications
+## Featured Publications
 
 | Year | Title |
 |------|-------|
@@ -99,17 +99,17 @@ Taught undergraduate and master’s level courses in the Department of Industria
 
 ---
 
-### Education
+## Education
 
 - **Ph.D. in Electronics & Computer Engineering** *(ongoing)*  
   Thesis: *ALFA: Advanced LiDAR Framework for Automotive*
 
 - **M.Sc. in Industrial Electronics and Computer Engineering**  
-  Dissertation: *System Survival Across Hypervisor Failures*
+  Dissertation: *Enabling System Survival Across Hypervisor Failures*
 
 ---
 
-### Let's Connect
+## Let's Connect
 
 ricardojrroriz@gmail.com  
 Braga, Portugal  
